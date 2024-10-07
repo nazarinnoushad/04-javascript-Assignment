@@ -19,7 +19,7 @@ else  {
     
 }*/
 
-let Application = "admin"
+/*let Application = "admin"
 switch (Application) {
     case "admin":
         console.log("gets full access");
@@ -39,5 +39,29 @@ switch (Application) {
             
             break;
              }
+*/
 
+/*let age  = 10
+if (age >= 18)  {
+  console.log("you are eligible for voting");
+}
+ else {
+  console.log("you are not eligible for voting");
+  
+ }*/
 
+  /*let  t = prompt ("total number of working days")
+  let  a = prompt ("number of days attended")
+  if ( ((a/t)*100) >=75) {
+   alert("yes"  )
+  }
+   else{ alert("no")
+   }*/
+
+   /*let  temp = prompt ("Enter the temperature") 
+  if (temp> 98 && temp <=98.6 ) {
+    alert("normal");
+  }
+else  {
+  alert("not normal");
+}*/
